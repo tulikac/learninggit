@@ -2,6 +2,4 @@ This is a new test
 
 add another line
 
-this is a third line
-
-This is in the new branch
+This is in the copy
